@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "datetime": 1609222103,
-        "filename": "lineage-18.1-20201229-UNOFFICIAL-tiffany.zip",
-        "id": "e63468c1a03a57db3acb91af191d6993",
+        "datetime": 1609315967,
+        "filename": "lineage-18.1-20201230-UNOFFICIAL-tiffany.zip",
+        "id": "31e6da52e2f7c3101b87efab5a004cb9",
         "romtype": "unofficial",
-        "size": 688814919,
-        "url": "https://sourceforge.net/projects/tiffany-project/files/Lineage/lineage-18.1-20201229-UNOFFICIAL-tiffany.zip/download",
+        "size": 688617132,
+        "url": "https://sourceforge.net/projects/tiffany-project/files/Lineage/lineage-18.1-20201230-UNOFFICIAL-tiffany.zip/download",
         "version": "18.1"
     }
   ]
